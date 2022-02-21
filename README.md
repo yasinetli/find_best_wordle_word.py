@@ -11,3 +11,4 @@ After entering "arose" as the first word, the words containing the most likely l
 Entering "arose" as the first word and "until" as the second word is the most logical choice.
 By replacing the word list in the data file with a list of 5-letter words from other languages, the best word choices can be found for wordle games in other languages.
 For example, when this script is applied for Turkish, the best first choice word for wordle game is found to be as "erika".
+By modifying this script (by adding the letters that the searched word should and should not contain according to the course of the game), a script that can help in the wordle game can be obtained.
