@@ -1,4 +1,4 @@
-#The Best Starting Words For Wordle
+#find_best_wordle_word.py
 This script finds the mathematically best first choice of words for the wordle game.
 In the recently popular word game wordle, the player aims to find the right word by guessing 5-letter words.
 Players have a total of 6 guesses. After each guess, it is indicated whether the letters in the guessed word and locations of letters in the word were guessed correctly.
